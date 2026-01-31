@@ -32,7 +32,7 @@
 
 ---
 ## 🤝 Non-Technical Skills & Tools
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=ps&perline=1" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="40" height="40" alt="After Effects"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40" alt="Canva"/>
