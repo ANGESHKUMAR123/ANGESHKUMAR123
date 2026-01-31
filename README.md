@@ -47,6 +47,7 @@
 ## 📊 GitHub Statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ANGESHKUMAR123&show_icons=true&theme=tokyonight&border_radius=10" height="170"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=ANGESHKUMAR123&theme=radical&hide_border=false" height="160" alt="streak graph" /> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ANGESHKUMAR123&theme=tokyonight&border_radius=10" height="170"/>
 </p>
 
