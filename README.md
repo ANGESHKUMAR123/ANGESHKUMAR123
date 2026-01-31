@@ -1,16 +1,89 @@
-## Hi there 👋
+<!-- 3D Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Angeshkumar%20P&fontAlign=50&fontAlignY=40&color=gradient&desc=Web%20Developer%20%7C%20ML%20Enthusiast&descAlign=50&descAlignY=60&animation=twinkling"/>
+</p>
 
-<!--
-**ANGESHKUMAR123/ANGESHKUMAR123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Typing Animation -->
+<p align="center">
+ Hi 👋 I'm AngeshKumar P
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+🎓 **Bachelor of Engineering Student**  
+💻 Passionate **Web Developer & ML Enthusiast**  
+📊 Interested in **Data Analytics & AI**  
+🚀 Love learning new technologies & building projects  
+
+---
+
+## 💻 Coding Animation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,flask,git,github&perline=9" />
+</p>
+
+
+---
+
+## 📂 Featured Projects
+🚀 **Face Recognition Login System**  
+🔹 Secure login using face recognition  
+🔹 Tech: Python, PHP  
+
+🚀 **AI-Based Phishing Email Detection**  
+🔹 Spam / Non-Spam classification  
+🔹 Tech: HTML, CSS, Python, Flask, XGBoost  
+
+---
+
+## 📊 GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ANGESHKUMAR123&show_icons=true&theme=tokyonight&border_radius=10" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ANGESHKUMAR123&theme=tokyonight&border_radius=10" height="170"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ANGESHKUMAR123&theme=react-dark&bg_color=000000&line=00F7FF&point=FFFFFF&radius=10"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ANGESHKUMAR123&theme=radical&row=1&column=6"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/angeshkumar-p-99ab92302">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:angeshkumar499@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+✨ *“Consistency beats talent when talent doesn’t work consistently.”*
+
