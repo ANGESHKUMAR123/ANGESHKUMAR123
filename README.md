@@ -31,8 +31,8 @@
 
 ---
 ## 🤝 Non-Technical Skills & Tools
-<p align="letf">
-  <img src="https://skillicons.dev/icons?i=ps&perline=1" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ps,vscode&perline=2" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="50" height="50" alt="After Effects"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50" height="50" alt="Canva"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-word-2019--v1.png" width="50" height="50" alt="MS Word"/>
