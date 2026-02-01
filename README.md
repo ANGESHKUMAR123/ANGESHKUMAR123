@@ -1,6 +1,6 @@
 <!-- 3D Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Angeshkumar%20P&fontAlign=50&fontAlignY=40&color=gradient&desc=Web%20Developer%20%7C%20ML%20Enthusiast&descAlign=50&descAlignY=60&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Angeshkumar%20P&fontAlign=50&fontAlignY=40&color=gradient&desc=Web%20Developer%20%7C%20ML%20Engineering&descAlign=50&descAlignY=60&animation=twinkling"/>
 </p>
 
 <!-- Typing Animation -->
