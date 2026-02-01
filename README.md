@@ -4,7 +4,7 @@
 </p>
 
 <!-- Typing Animation -->
-# Hi 👋 I'm AngeshKumar p
+# Hi 👋 I'm AngeshKumar P
 <p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+I'm+a+Web+Developer;HTML+%7C+CSS+%7C+JavaScript+%7C+Python+%7C+MySQL;I+Love+Web+Animations+%F0%9F%8E%AC;Turning+Ideas+into+Interactive+Websites"
@@ -64,6 +64,28 @@
    <img src="https://github-readme-streak-stats.herokuapp.com?user=ANGESHKUMAR123&theme=radical&hide_border=false" height="160" alt="streak graph" /> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ANGESHKUMAR123&theme=tokyonight&border_radius=10" height="170"/>
 </p>
+
+---
+## 🖥️ My Workspace
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=My+Daily+Development+Workspace;Coding+%7C+Design+%7C+Learning"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Browser-Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Tools-Git%20%7C%20GitHub-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Design-Photoshop%20%7C%20Canva-31A8FF?style=for-the-badge&logo=adobe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI-ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
+
+<p align="center">
+  💻 Coding &nbsp;|&nbsp; 🎨 Designing &nbsp;|&nbsp; 🚀 Building Projects
 
 ---
 
