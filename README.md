@@ -4,9 +4,13 @@
 </p>
 
 <!-- Typing Animation -->
+# Hi 👋 I'm AngeshKumar p
 <p align="center">
- Hi 👋 I'm AngeshKumar P
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+I'm+a+Web+Developer;HTML+%7C+CSS+%7C+JavaScript+%7C+Python+%7C+MySQL;I+Love+Web+Animations+%F0%9F%8E%AC;Turning+Ideas+into+Interactive+Websites"
+    alt="Typing SVG" />
 </p>
+
 
 ---
 
