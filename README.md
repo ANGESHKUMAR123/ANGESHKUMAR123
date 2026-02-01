@@ -11,14 +11,13 @@
 ---
 
 ## 🧑‍💻 About Me
-🎓 Bachelor of Engineering Student  
-💻 Passionate "Web Developer & ML Engineering "
-📊 Interested in "Digital Marketing & AI" 
+🎓 Bachelor of Engineering Student  <br>
+💻 Passionate "Web Developer & ML Engineering "<br>
+📊 Interested in "Digital Marketing & AI" <br>
 🚀 Love learning new technologies & building projects  
 
 ---
 
-## 💻 Coding Animation
 <p align="center">
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 </p>
