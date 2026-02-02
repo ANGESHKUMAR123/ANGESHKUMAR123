@@ -47,16 +47,6 @@
 
 ---
 
-## 📂 Featured Projects
-🚀 **Face Recognition Login System**  
-🔹 Secure login using face recognition  
-🔹 Tech: Python, PHP  
-
-🚀 **AI-Based Phishing Email Detection**  
-🔹 Spam / Non-Spam classification  
-🔹 Tech: HTML, CSS, Python, Flask, XGBoost  
-
----
 
 ## 📊 GitHub Statistics
 <p align="center">
@@ -113,6 +103,7 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
 ---
 
 ## 🐍 Contribution Snake Animation
