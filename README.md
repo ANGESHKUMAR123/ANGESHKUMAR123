@@ -15,7 +15,7 @@
 ---
 
 ## 🧑‍💻 About Me
-🎓 Bachelor of Engineering Student  <br>
+🎓 Bachelor of Engineering Student In Computer Science and Engineering <br>
 💻 Passionate "Web Developer & ML Engineering "<br>
 📊 Interested in "Digital Marketing & AI" <br>
 🚀 Love learning new technologies & building projects  
